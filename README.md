@@ -41,6 +41,7 @@ Projects offering pay-per-call APIs via x402.
 |------|-------------|-----------|------------|--------|
 | [AsterPay](https://asterpay.io) | EUR settlement layer for AI agent commerce. Market data, sentiment, DeFi analytics, whale tracking, and more. | 13 | EUR (SEPA Instant) | ✅ Live |
 | [CDAS](https://x402.org/ecosystem) | Crypto Data Analytics Service | - | USDC | ✅ Live |
+| [x402-api](https://x402-api.fly.dev) | Unified DeFi data API (CoinGecko, DefiLlama, Hyperliquid, GoPlus, Blockchair) with x402 micropayments. MCP server + ElizaOS plugin available. | 8 | USDC (Base) | ✅ Live |
 
 > **Add your project!** Open a PR to add your x402-enabled service.
 
